@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>homework</title>
+</head>
+<body>
+<style>
+h1, p{
+color:#4100ff; 
+}
+
+</style>
+<h1>Вакансия:Junior Frontend Developer</h1>
+</body>
+</html>
